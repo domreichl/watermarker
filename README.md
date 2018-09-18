@@ -14,4 +14,4 @@ Requirements:
  - python3 with built-in modules: os, sys, tkinter
  - third-party module: Pillow (PIL fork)
 
-Edit: Due to the font selection, the program doesn't work on Linux. To test the program anyway, you may hardcode a font path into line 175, for example: fontStyle = '/usr/share/fonts/truetype/lato/Lato-Medium.ttf'
+Edit: Due to the font selection, the program doesn't work on Linux. To test the program anyway, you may hardcode a font path into line 175, for example: *fontStyle = "/usr/share/fonts/truetype/lato/Lato-Medium.ttf"*
